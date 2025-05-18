@@ -128,7 +128,7 @@ and works in the following browsers
 The best way to understand this will be by downloading the code and going
 through this yourself. The code is made freely available under a [Creative
 Commons 2.0 license][9]. The code is provided as is and no support is implied or
-given.
+given .
 
 [1]: /examples/overlapping-tabs/
 [2]: /images/articles/overlapping_nav_example.png
